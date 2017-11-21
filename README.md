@@ -1,3 +1,1 @@
-&myApp
-
-This is a github test app
+myApp - This is a github test app
